@@ -3,12 +3,36 @@
     <title>LJ Portfolio</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-04-24T01:33:52-04:00</updated>
+    <updated>2025-04-24T02:13:19-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
     <id>https://jimthejelly.github.io/website</id>
 
+    <entry>
+        <title>BYOND</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/byond/"/>
+        <id>https://jimthejelly.github.io/website/byond/</id>
+
+        <updated>2025-04-24T02:13:19-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>EasyGarden: Ladybug</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/easygarden-ladybug/"/>
+        <id>https://jimthejelly.github.io/website/easygarden-ladybug/</id>
+
+        <updated>2025-04-24T02:13:06-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>IoT Contactless Biometric Sensing </title>
         <author>
