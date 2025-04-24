@@ -9,5 +9,59 @@
         "name": "Jimin Lee"
     },
     "items": [
+        {
+            "id": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
+            "url": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
+            "title": "IoT Contactless Biometric Sensing ",
+            "author": {
+                "name": "Jimin Lee"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-21T00:00:00-04:00",
+            "date_modified": "2025-04-24T01:30:46-04:00"
+        },
+        {
+            "id": "https://jimthejelly.github.io/website/project-voice/",
+            "url": "https://jimthejelly.github.io/website/project-voice/",
+            "title": "Project Voice",
+            "summary": "The Voice Project was a multi-semester project that aimed to develop and&hellip;",
+            "content_html": "<p class=\"align-left\">The Voice Project was a multi-semester project that aimed to develop and assist alternative communication methods for nonverbal patients. This started as a project pitched by Ed Fennell to the Rensselaer Center for Open Source (RCOS), which I then helped take upon a leader role in helping push this cause forward.</p>\n<h3>2025 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>\n<p>This colloquium was aimed at bringing awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It was a mostly student-run conference, with the assistance of Dr. Juergen Hahn and Ed Fennell.</p>\n<p>To access the website for the conference, click <a href=\"https://www.cinpct.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. To see the talks and panels from the conference, click <a href=\"https://cinpct.org/agenda/\">here</a>.</p>\n<h3>Independent Research Project</h3>\n<p>During the RCOS project, I led the sensors team, where we analyzed various types of sensors for biometric sensing.</p>",
+            "author": {
+                "name": "Jimin Lee"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-17T00:00:00-04:00",
+            "date_modified": "2025-04-24T01:33:52-04:00"
+        },
+        {
+            "id": "https://jimthejelly.github.io/website/fullerene/",
+            "url": "https://jimthejelly.github.io/website/fullerene/",
+            "title": "Fullerene",
+            "summary": "Fullerene is a chemistry modelling simulator + educational mini-games hub, where students&hellip;",
+            "content_html": "<p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>\n<p> </p>\n<p>----</p>\n<p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<p>Link to <a href=\"https://github.com/jimthejelly/fullerene\" target=\"_blank\" rel=\"noopener noreferrer\">Project Github</a></p>",
+            "author": {
+                "name": "Jimin Lee"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-04T00:00:00-04:00",
+            "date_modified": "2025-04-24T01:33:13-04:00"
+        },
+        {
+            "id": "https://jimthejelly.github.io/website/watermelon-lights/",
+            "url": "https://jimthejelly.github.io/website/watermelon-lights/",
+            "title": "Watermelon Lights",
+            "summary": "Watermelon Lights was a semester-long project for my Electric Circuits college class.",
+            "content_html": "<p>Watermelon Lights was a semester-long project for my Electric Circuits college class.</p>",
+            "author": {
+                "name": "Jimin Lee"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-30T00:00:00-04:00",
+            "date_modified": "2025-04-24T01:31:57-04:00"
+        }
     ]
 }
