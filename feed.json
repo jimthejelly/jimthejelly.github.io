@@ -13,15 +13,15 @@
             "id": "https://jimthejelly.github.io/website/fpga-frogger/",
             "url": "https://jimthejelly.github.io/website/fpga-frogger/",
             "title": "FPGA Frogger",
-            "summary": "Link to: Github MercerX Project Walkthrough",
-            "content_html": "<p> </p>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li>\n<li>MercerX Project Walkthrough</li>\n</ul>",
+            "summary": "FPGA Frogger Link to: Github MercerX Project Walkthrough",
+            "content_html": "<p>FPGA Frogger</p>\n<p> </p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li>\n<li>MercerX Project Walkthrough</li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2025-06-03T22:22:50-04:00",
-            "date_modified": "2025-06-03T22:56:01-04:00"
+            "date_modified": "2025-06-03T23:55:50-04:00"
         },
         {
             "id": "https://jimthejelly.github.io/website/the-adventures-of-arpie/",
@@ -59,7 +59,7 @@
             "tags": [
             ],
             "date_published": "2025-04-24T02:13:06-04:00",
-            "date_modified": "2025-04-24T02:13:06-04:00"
+            "date_modified": "2025-06-03T23:55:53-04:00"
         },
         {
             "id": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
@@ -78,14 +78,14 @@
             "url": "https://jimthejelly.github.io/website/project-voice/",
             "title": "Project Voice",
             "summary": "The Voice Project was a multi-semester project that aimed to develop and&hellip;",
-            "content_html": "<p class=\"align-left\">The Voice Project was a multi-semester project that aimed to develop and assist alternative communication methods for nonverbal patients. This started as a project pitched by Ed Fennell to the Rensselaer Center for Open Source (RCOS), which I then helped take upon a leader role in helping push this cause forward.</p>\n<h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>\n<p>This colloquium was aimed at bringing awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It was a mostly student-run conference, with the assistance of Dr. Juergen Hahn and Ed Fennell.</p>\n<p>To access the website for the conference, click <a href=\"https://www.cinpct.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. To see the talks and panels from the conference, click <a href=\"https://cinpct.org/agenda/\">here</a>.</p>\n<h3>Independent Research Project</h3>\n<p>During the RCOS project, I led the sensors team, where we analyzed various types of sensors for biometric sensing.</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://new.rcos.io/projects/project-voice/\">RCOS Webpage</a></li>\n<li>Project Github</li>\n<li>CINPCT 2026</li>\n</ul>",
+            "content_html": "<p class=\"align-left\">The Voice Project was a multi-semester project that aimed to develop and assist alternative communication methods for nonverbal patients. This started as a project pitched by Ed Fennell to the Rensselaer Center for Open Source (RCOS), which I then helped take upon a leader role in helping push this cause forward.</p>\n<h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>\n<p>This colloquium is aimed at bringing awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It is a mostly student-run conference, with the assistance of Dr. Juergen Hahn, Ed Fennell.</p>\n<p>To access the website for the conference, click <a href=\"https://www.cinpct.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. To see the talks and panels from the conference, click <a href=\"https://cinpct.org/agenda/\">here</a>.</p>\n<h3>Independent Research Project</h3>\n<p>During the RCOS project, I led the sensors team, where we analyzed various types of sensors for biometric sensing. I particularly focused on wearable technologies such as the Apple Watch.</p>\n<!---<p>For the following research project from Summer 2025 and onwards, I helped</p> --><hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://new.rcos.io/projects/project-voice/\">RCOS Webpage</a></li>\n<li>Project Github</li>\n<li><a href=\"https://cinpct.org\">CINPCT 2026</a></li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2024-08-17T00:00:00-04:00",
-            "date_modified": "2025-06-03T22:58:15-04:00"
+            "date_modified": "2025-06-03T23:45:48-04:00"
         },
         {
             "id": "https://jimthejelly.github.io/website/fullerene/",
@@ -105,15 +105,15 @@
             "id": "https://jimthejelly.github.io/website/watermelon-lights/",
             "url": "https://jimthejelly.github.io/website/watermelon-lights/",
             "title": "Watermelon Lights",
-            "summary": "Watermelon Lights was a semester-long project for my Electric Circuits college class.",
-            "content_html": "<p>Watermelon Lights was a semester-long project for my Electric Circuits college class.</p>\n<p> </p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li>Presentation</li>\n<li>Final Project Report</li>\n</ul>",
+            "summary": "Watermelon Lights is a circuit system that lights an LED based on&hellip;",
+            "content_html": "<p>Watermelon Lights is a circuit system that lights an LED based on the frequency of your sound input. Similar to Clap-On Lights, this project is intended to provide a simple and easy way for controlling the lights in your house.</p>\n<p>The circuit system has three key aspects: sound input, amplification, and filtering. To achieve this, we used operational amplifiers, 555 timers, an electret microphone and created a frequency filter (initially passive, then switched to active). </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/5/watermelon.7f2af8a2958888595a26.png\" alt=\"\" width=\"559\" height=\"474\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-md.png 768w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-xl.png 1024w\"></figure>\n<p>Watermelon Lights was a semester-long project made for Electric Circuits, and was presented at the Mercer X Corridor of Creativity and Community.</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li>Mercer X Grand Opening Presentation</li>\n<li><a href=\"https://docs.google.com/document/d/1QdWbbYbuF54TKe8uwa-hxR_3HgViGpavkoGLGTZGsps/edit?usp=sharing\">Final Project Manual</a></li>\n<li>Milestone 1</li>\n<li>Milestone 2</li>\n<li>Milestone 3</li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2024-05-30T00:00:00-04:00",
-            "date_modified": "2025-06-03T22:55:25-04:00"
+            "date_modified": "2025-06-03T23:55:59-04:00"
         }
     ]
 }
