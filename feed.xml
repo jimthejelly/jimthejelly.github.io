@@ -3,7 +3,7 @@
     <title>LJ Portfolio</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-06-03T22:58:15-04:00</updated>
+    <updated>2025-06-03T23:38:05-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
@@ -150,6 +150,9 @@
         <content type="html">
             <![CDATA[
                 <p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>
+<p> </p>
+<p>Project Visuals:</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/2/fullerene.38ce30fa2f3378149113.png" alt="" width="662" height="447" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w"></figure>
 <hr>
 <p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
 <hr>

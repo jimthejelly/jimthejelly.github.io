@@ -92,14 +92,14 @@
             "url": "https://jimthejelly.github.io/website/fullerene/",
             "title": "Fullerene",
             "summary": "Fullerene is a chemistry modelling simulator + educational mini-games hub, where students&hellip;",
-            "content_html": "<p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>\n<hr>\n<p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\">Github</a></li>\n<li><a href=\"https://new.rcos.io/projects/fullerene/\">RCOS Project Website</a></li>\n<li><a href=\"https://jimthejelly.github.io/website/the-adventures-of-arpie/\">RPG Spin-Off Project</a></li>\n</ul>",
+            "content_html": "<p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>\n<p> </p>\n<p>Project Visuals:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/2/fullerene.38ce30fa2f3378149113.png\" alt=\"\" width=\"662\" height=\"447\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w\"></figure>\n<hr>\n<p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\">Github</a></li>\n<li><a href=\"https://new.rcos.io/projects/fullerene/\">RCOS Project Website</a></li>\n<li><a href=\"https://jimthejelly.github.io/website/the-adventures-of-arpie/\">RPG Spin-Off Project</a></li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2024-06-04T00:00:00-04:00",
-            "date_modified": "2025-06-03T22:55:04-04:00"
+            "date_modified": "2025-06-03T23:38:05-04:00"
         },
         {
             "id": "https://jimthejelly.github.io/website/watermelon-lights/",
