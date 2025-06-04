@@ -3,12 +3,68 @@
     <title>LJ Portfolio</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-04-24T02:13:19-04:00</updated>
+    <updated>2025-06-03T22:58:15-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
     <id>https://jimthejelly.github.io/website</id>
 
+    <entry>
+        <title>FPGA Frogger</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/fpga-frogger/"/>
+        <id>https://jimthejelly.github.io/website/fpga-frogger/</id>
+
+        <updated>2025-06-03T22:22:50-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Link to: Github MercerX Project Walkthrough
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Link to:</p>
+<ul>
+<li><a href="https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger" target="_blank" rel="noopener noreferrer">Github</a></li>
+<li>MercerX Project Walkthrough</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Atomia - The Adventures of Arpie</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/the-adventures-of-arpie/"/>
+        <id>https://jimthejelly.github.io/website/the-adventures-of-arpie/</id>
+
+        <updated>2025-05-19T00:00:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Atomia is a 2D role-playing game made for educational and entertainment purposes.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Atomia is a 2D role-playing game made for educational and entertainment purposes.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr>
+<p>Atomia is a spin-off project from <a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a>. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
+<hr>
+<p>Link to:</p>
+<ul>
+<li><a href="https://github.com/jimthejelly/atomia">Github</a></li>
+<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>BYOND</title>
         <author>
@@ -62,11 +118,18 @@
         <content type="html">
             <![CDATA[
                 <p class="align-left">The Voice Project was a multi-semester project that aimed to develop and assist alternative communication methods for nonverbal patients. This started as a project pitched by Ed Fennell to the Rensselaer Center for Open Source (RCOS), which I then helped take upon a leader role in helping push this cause forward.</p>
-<h3>2025 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>
+<h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>
 <p>This colloquium was aimed at bringing awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It was a mostly student-run conference, with the assistance of Dr. Juergen Hahn and Ed Fennell.</p>
 <p>To access the website for the conference, click <a href="https://www.cinpct.org" target="_blank" rel="noopener noreferrer">here</a>. To see the talks and panels from the conference, click <a href="https://cinpct.org/agenda/">here</a>.</p>
 <h3>Independent Research Project</h3>
 <p>During the RCOS project, I led the sensors team, where we analyzed various types of sensors for biometric sensing.</p>
+<hr>
+<p>Link to:</p>
+<ul>
+<li><a href="https://new.rcos.io/projects/project-voice/">RCOS Webpage</a></li>
+<li>Project Github</li>
+<li>CINPCT 2026</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -87,10 +150,15 @@
         <content type="html">
             <![CDATA[
                 <p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>
-<p> </p>
-<p>----</p>
+<hr>
 <p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
-<p>Link to <a href="https://github.com/jimthejelly/fullerene" target="_blank" rel="noopener noreferrer">Project Github</a></p>
+<hr>
+<p>Link to:</p>
+<ul>
+<li><a href="https://github.com/jimthejelly/fullerene">Github</a></li>
+<li><a href="https://new.rcos.io/projects/fullerene/">RCOS Project Website</a></li>
+<li><a href="https://jimthejelly.github.io/website/the-adventures-of-arpie/">RPG Spin-Off Project</a></li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -111,6 +179,13 @@
         <content type="html">
             <![CDATA[
                 <p>Watermelon Lights was a semester-long project for my Electric Circuits college class.</p>
+<p> </p>
+<hr>
+<p>Link to:</p>
+<ul>
+<li>Presentation</li>
+<li>Final Project Report</li>
+</ul>
             ]]>
         </content>
     </entry>
