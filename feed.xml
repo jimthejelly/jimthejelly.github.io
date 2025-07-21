@@ -3,7 +3,7 @@
     <title>jimthejelly</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-07-21T13:58:20-04:00</updated>
+    <updated>2025-07-21T14:50:11-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
@@ -171,7 +171,11 @@
 
         <updated>2025-04-24T02:13:06-04:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="ladybug.png" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>IoT Contactless Biometric Sensing </title>

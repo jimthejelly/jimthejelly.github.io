@@ -91,13 +91,14 @@
             "id": "https://jimthejelly.github.io/website/easygarden-ladybug/",
             "url": "https://jimthejelly.github.io/website/easygarden-ladybug/",
             "title": "EasyGarden: Ladybug",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"ladybug.png\" alt=\"\" data-is-external-image=\"true\"></figure>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2025-04-24T02:13:06-04:00",
-            "date_modified": "2025-04-24T02:13:06-04:00"
+            "date_modified": "2025-07-21T14:50:11-04:00"
         },
         {
             "id": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
