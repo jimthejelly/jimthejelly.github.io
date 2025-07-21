@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>LJ Portfolio</title>
+    <title>jimthejelly</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-06-03T23:55:59-04:00</updated>
+    <updated>2025-07-21T13:58:20-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
     <id>https://jimthejelly.github.io/website</id>
 
+    <entry>
+        <title>House Plant Artificial LED Lighting</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/"/>
+        <id>https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/</id>
+
+        <updated>2025-07-21T13:58:20-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Python Files</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/python-files/"/>
+        <id>https://jimthejelly.github.io/website/python-files/</id>
+
+        <updated>2025-07-19T16:32:24-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>DIY Guitar Pedal</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/diy-guitar-pedal/"/>
+        <id>https://jimthejelly.github.io/website/diy-guitar-pedal/</id>
+
+        <updated>2025-07-19T15:43:18-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Circuit Schematic: Breadboard: Soldered PCB Components:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Circuit Schematic:</p>
+<p> </p>
+<p>Breadboard:</p>
+<p> </p>
+<p>Soldered PCB Components:</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>FPGA Frogger</title>
         <author>
@@ -17,21 +66,32 @@
         <link href="https://jimthejelly.github.io/website/fpga-frogger/"/>
         <id>https://jimthejelly.github.io/website/fpga-frogger/</id>
 
-        <updated>2025-06-03T22:22:50-04:00</updated>
+        <updated>2025-07-19T15:43:08-04:00</updated>
             <summary>
                 <![CDATA[
-                    FPGA Frogger Link to: Github MercerX Project Walkthrough
+                    / This project is also written as a tutorial for Verilog on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>FPGA Frogger</p>
+                <p>/</p>
 <p> </p>
+<p>This project is also written as a tutorial for Verilog on the Mercer XLab website.</p>
+<hr>
+<h3>8bitworkshop Simulation</h3>
+<p>Demo Video</p>
+<p> </p>
+<h3>Breadboarded Version</h3>
+<p> </p>
+<p>Demo Video</p>
+<p> </p>
+<h3>PCB Version</h3>
+<p>KiCAD </p>
 <hr>
 <p>Link to:</p>
 <ul>
 <li><a href="https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger" target="_blank" rel="noopener noreferrer">Github</a></li>
-<li>MercerX Project Walkthrough</li>
+<li><a href="https://mercerxlab.notion.site/verilog-crossy" target="_blank" rel="noopener noreferrer">Mercer XLab Project Walkthrough</a></li>
 </ul>
             ]]>
         </content>
@@ -47,22 +107,44 @@
         <updated>2025-05-19T00:00:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    Atomia is a 2D role-playing game made for educational and entertainment purposes.
+                    Atomia is a 2D adventure role-playing game made for educational and entertainment&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Atomia is a 2D role-playing game made for educational and entertainment purposes.</p>
-<p> </p>
-<p> </p>
+                <p>Atomia is a 2D adventure role-playing game made for educational and entertainment purposes.</p>
+<p>Follow Arpie and the ragtag elemental team as they make their way from the Outer Outskirts of Atomia to the Central Kingdom, where the Noble Gases are locked up by the Synthetic Syndicate. Can the team succesfully save the land from the evil clutches of the Syndicate, or were they doomed from the beginning?</p>
+<hr>
+<h3>Project Visuals (from demo)</h3>
 <p> </p>
 <hr>
-<p>Atomia is a spin-off project from <a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a>. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
+<h3>Additional Developer Notes</h3>
+<p><strong>Arpie character design progression</strong></p>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden; height: 210.708px;" border="0">
+<tbody>
+<tr style="height: 162.833px; border-style: hidden;">
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/Arpie_idle1-2.png" alt="Arpie_v1" width="256" height="256" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xl.png 1024w"></figure></td>
+<td style="width: 24.9762%; height: 162.833px;"> </td>
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/oxie_front1-2.png" alt="Arpie_v3; added backpack" width="1024" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xl.png 1024w"></figure></td>
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/front1-2.png" alt="Arpie_final; red backpack + pixel" width="81" height="81" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xl.png 1024w"></figure></td>
+</tr>
+<tr style="height: 47.875px; border-style: hidden;">
+<td class="align-center" style="width: 24.9762%; height: 47.875px;"><em>Version 1</em></td>
+<td class="align-center" style="width: 24.9762%; height: 47.875px;"><em>Version 2</em></td>
+<td class="align-center" style="width: 24.9762%; height: 47.875px;"><em>Version 3</em></td>
+<td class="align-center" style="width: 24.9762%; height: 47.875px;"><em>Version 4 (Final)</em></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<hr>
+<p>Atomia is a spin-off from <a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a>, and was made on the Unity platform. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
 <hr>
 <p>Link to:</p>
 <ul>
-<li><a href="https://github.com/jimthejelly/atomia">Github</a></li>
-<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project)</li>
+<li>Demo on Itch.io</li>
+<li><a href="https://github.com/jimthejelly/atomia-rpg">Github</a></li>
+<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project</li>
 </ul>
             ]]>
         </content>
@@ -114,23 +196,20 @@
         <updated>2024-08-17T00:00:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    The Voice Project was a multi-semester project that aimed to develop and&hellip;
+                    The Voice Project is a multi-semester project that aims to develop and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-left">The Voice Project was a multi-semester project that aimed to develop and assist alternative communication methods for nonverbal patients. This started as a project pitched by Ed Fennell to the Rensselaer Center for Open Source (RCOS), which I then helped take upon a leader role in helping push this cause forward.</p>
+                <p class="align-left">The Voice Project is a multi-semester project that aims to develop and assist alternative communication methods for nonverbal patients.</p>
 <h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>
-<p>This colloquium is aimed at bringing awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It is a mostly student-run conference, with the assistance of Dr. Juergen Hahn, Ed Fennell.</p>
+<p>The goal of the colloquium is to bring awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It is a mostly student-run conference, with additional assistance from many of the RPI faculty &amp; administration.</p>
 <p>To access the website for the conference, click <a href="https://www.cinpct.org" target="_blank" rel="noopener noreferrer">here</a>. To see the talks and panels from the conference, click <a href="https://cinpct.org/agenda/">here</a>.</p>
-<h3>Independent Research Project</h3>
-<p>During the RCOS project, I led the sensors team, where we analyzed various types of sensors for biometric sensing. I particularly focused on wearable technologies such as the Apple Watch.</p>
-<!---<p>For the following research project from Summer 2025 and onwards, I helped</p> --><hr>
-<p>Link to:</p>
+<h3>Research</h3>
+<p>The research branch of Project Voice focuses on creating a home-use assistive communication device for nonspeaking individuals.</p>
+<p><strong>Papers &amp; Related Notes:</strong></p>
 <ul>
-<li><a href="https://new.rcos.io/projects/project-voice/">RCOS Webpage</a></li>
-<li>Project Github</li>
-<li><a href="https://cinpct.org">CINPCT 2026</a></li>
+<li>Literature Review Paper</li>
 </ul>
             ]]>
         </content>
@@ -152,9 +231,9 @@
         <content type="html">
             <![CDATA[
                 <p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>
-<p> </p>
-<p>Project Visuals:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/2/fullerene.38ce30fa2f3378149113.png" alt="" width="662" height="447" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w"></figure>
+<hr>
+<h3>Project Visuals</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/fullerene.38ce30fa2f3378149113.png" alt="" width="662" height="447" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w"></figure>
 <hr>
 <p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
 <hr>
@@ -163,38 +242,6 @@
 <li><a href="https://github.com/jimthejelly/fullerene">Github</a></li>
 <li><a href="https://new.rcos.io/projects/fullerene/">RCOS Project Website</a></li>
 <li><a href="https://jimthejelly.github.io/website/the-adventures-of-arpie/">RPG Spin-Off Project</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Watermelon Lights</title>
-        <author>
-            <name>Jimin Lee</name>
-        </author>
-        <link href="https://jimthejelly.github.io/website/watermelon-lights/"/>
-        <id>https://jimthejelly.github.io/website/watermelon-lights/</id>
-
-        <updated>2024-05-30T00:00:00-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Watermelon Lights is a circuit system that lights an LED based on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Watermelon Lights is a circuit system that lights an LED based on the frequency of your sound input. Similar to Clap-On Lights, this project is intended to provide a simple and easy way for controlling the lights in your house.</p>
-<p>The circuit system has three key aspects: sound input, amplification, and filtering. To achieve this, we used operational amplifiers, 555 timers, an electret microphone and created a frequency filter (initially passive, then switched to active). </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/5/watermelon.7f2af8a2958888595a26.png" alt="" width="559" height="474" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-md.png 768w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon.7f2af8a2958888595a26-xl.png 1024w"></figure>
-<p>Watermelon Lights was a semester-long project made for Electric Circuits, and was presented at the Mercer X Corridor of Creativity and Community.</p>
-<hr>
-<p>Link to:</p>
-<ul>
-<li>Mercer X Grand Opening Presentation</li>
-<li><a href="https://docs.google.com/document/d/1QdWbbYbuF54TKe8uwa-hxR_3HgViGpavkoGLGTZGsps/edit?usp=sharing">Final Project Manual</a></li>
-<li>Milestone 1</li>
-<li>Milestone 2</li>
-<li>Milestone 3</li>
 </ul>
             ]]>
         </content>
