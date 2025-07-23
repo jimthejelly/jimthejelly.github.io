@@ -2,40 +2,44 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "jimthejelly",
     "description": "",
-    "home_page_url": "https://jimthejelly.github.io",
-    "feed_url": "https://jimthejelly.github.io/feed.json",
+    "home_page_url": "https://jimthejelly.github.io/website",
+    "feed_url": "https://jimthejelly.github.io/website/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jimin Lee"
     },
     "items": [
         {
-            "id": "https://jimthejelly.github.io/house-plant-artificial-led-lighting/",
-            "url": "https://jimthejelly.github.io/house-plant-artificial-led-lighting/",
-            "title": "House Plant Artificial LED Lighting",
+            "id": "https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/",
+            "url": "https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/",
+            "title": "Artificial LED Lighting for House Plants",
+            "summary": "This project aimed to create a controllable artificial lighting system for house&hellip;",
+            "content_html": "<p>This project aimed to create a controllable artificial lighting system for house plants using RBG LEDs.</p>\n<p>I decided on making this because I have a succulent plant in my dorm that doesn't get much sunlight due to the orientation of my room. I decided to give the aritifical lighting a try, as part of a mini-experiment to see if the lights will have an impact on plant growth.</p>\n<hr>\n<h3>Breadboard Test</h3>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/led_test-2.jpg\" alt=\"Three breadboards stacked, each with a different coloured LED lit up, all connected to a 9V power source.\" width=\"50%\" height=\"51\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/led_test-2-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/led_test-2-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/led_test-2-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/led_test-2-xl.jpg 1024w\"></figure>\n<figcaption >LED Test with a 9V Battery</figcaption>\n</figure>\n<h3>KiCAD View</h3>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/kicad_schematic-2.png\" alt=\"KiCAD Schematic\" width=\"50%\" height=\"60\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_schematic-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_schematic-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_schematic-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_schematic-2-xl.png 1024w\"></figure>\n<figcaption >KiCAD Schematic</figcaption>\n</figure>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/kicad_layout-2.png\" alt=\"PCB editor version in KiCAD\" width=\"50%\" height=\"36\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_layout-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_layout-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_layout-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/kicad_layout-2-xl.png 1024w\"></figure>\n<figcaption >PCB Editor View</figcaption>\n</figure>\n<h3>PCB Version</h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/pic01.jpg\" alt=\"\" width=\"50%\" height=\"28\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-xl.jpg 1024w\"></figure>\n<p class=\"align-center\">* * *</p>\n<p>In addition to the automatic light system, I created a small automatic water dispenser so it doesn't dry up.</p>\n<h3>Automatic Water Dispenser</h3>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/Screenshot_20250625_092657_Samsung_Notes.jpg\" alt=\"Circuit Diagram\" width=\"50%\" height=\"31\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/Screenshot_20250625_092657_Samsung_Notes-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/Screenshot_20250625_092657_Samsung_Notes-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/Screenshot_20250625_092657_Samsung_Notes-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/Screenshot_20250625_092657_Samsung_Notes-xl.jpg 1024w\"></figure>\n<figcaption >Circuit Diagram</figcaption>\n</figure>\n<p class=\"align-center\">* * *</p>\n<h3>Final Design</h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/22/pic01.jpg\" alt=\"\" width=\"50%\" height=\"28\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/22/responsive/pic01-xl.jpg 1024w\"></figure>\n<hr>\n<p>This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.</p>\n<hr>\n<h4>Link to:</h4>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\"></a>PCB Project Files<a href=\"https://jimthejelly.github.io/website/the-adventures-of-arpie/\"></a></li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2025-07-21T13:58:20-04:00",
-            "date_modified": "2025-07-21T13:58:20-04:00"
+            "date_modified": "2025-07-22T22:50:20-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/python-files/",
-            "url": "https://jimthejelly.github.io/python-files/",
+            "id": "https://jimthejelly.github.io/website/python-files/",
+            "url": "https://jimthejelly.github.io/website/python-files/",
             "title": "Python Files",
+            "summary": "This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.",
+            "content_html": "<p> </p>\n<hr>\n<p>This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\"></a>Project Files</li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2025-07-19T16:32:24-04:00",
-            "date_modified": "2025-07-19T16:32:24-04:00"
+            "date_modified": "2025-07-22T22:29:15-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/diy-guitar-pedal/",
-            "url": "https://jimthejelly.github.io/diy-guitar-pedal/",
+            "id": "https://jimthejelly.github.io/website/diy-guitar-pedal/",
+            "url": "https://jimthejelly.github.io/website/diy-guitar-pedal/",
             "title": "DIY Guitar Pedal",
             "summary": "Circuit Schematic: Breadboard: Soldered PCB Components:",
             "content_html": "<p> </p>\n<p>Circuit Schematic:</p>\n<p> </p>\n<p>Breadboard:</p>\n<p> </p>\n<p>Soldered PCB Components:</p>",
@@ -48,25 +52,25 @@
             "date_modified": "2025-07-19T16:21:05-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/fpga-frogger/",
-            "url": "https://jimthejelly.github.io/fpga-frogger/",
+            "id": "https://jimthejelly.github.io/website/fpga-frogger/",
+            "url": "https://jimthejelly.github.io/website/fpga-frogger/",
             "title": "FPGA Frogger",
-            "summary": "/ This project is also written as a tutorial for Verilog on&hellip;",
-            "content_html": "<p>/</p>\n<p> </p>\n<p>This project is also written as a tutorial for Verilog on the Mercer XLab website.</p>\n<hr>\n<h3>8bitworkshop Simulation</h3>\n<p>Demo Video</p>\n<p> </p>\n<h3>Breadboarded Version</h3>\n<p> </p>\n<p>Demo Video</p>\n<p> </p>\n<h3>PCB Version</h3>\n<p>KiCAD </p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li>\n<li><a href=\"https://mercerxlab.notion.site/verilog-crossy\" target=\"_blank\" rel=\"noopener noreferrer\">Mercer XLab Project Walkthrough</a></li>\n</ul>",
+            "summary": "This project is a Crossy Roads-inspired game implemented on the Basys 3&hellip;",
+            "content_html": "<p>This project is a Crossy Roads-inspired game implemented on the Basys 3 board using Verilog.</p>\n<p>The goal of the game is to move left, right or stay still, based on the new row inputs above you. Every move will cause the rows to shift down. If the user (represented by the LED on the bottom row) hits an obstacle, the game ends.</p>\n<hr>\n<h3>8bitworkshop Simulation</h3>\n<h4>Demo Video</h4>\n<div class=\"align-center\">\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://jimthejelly.github.io/website/media/posts/17/simulation-video.mp4\" type=\"video/mp4\" /></video></figure>\n</div>\n<h3>Breadboarded Version</h3>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/17/schematic.jpg\" alt=\"Schematic of the LED layout drawn on a whiteboard\" width=\"50%\" height=\"40\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/17/responsive/schematic-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/17/responsive/schematic-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/17/responsive/schematic-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/17/responsive/schematic-xl.jpg 1024w\"></figure>\n<figcaption >Whiteboard Ideation Schematic</figcaption>\n</figure>\n<figure class=\"post__image post__image--center\" ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/17/image-2.jpg\" alt=\"Breadboard with 9 LEDs and 9 resistors connected to a Basys 3 board\" width=\"50%\" height=\"50\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/17/responsive/image-2-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/17/responsive/image-2-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/17/responsive/image-2-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/17/responsive/image-2-xl.jpg 1024w\"></figure>\n<figcaption >Breadboarded FPGA Frogger connected to the Basys 3</figcaption>\n</figure>\n<h4>Demo Video</h4>\n<div class=\"align-center\">\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://jimthejelly.github.io/website/media/posts/17/basys-board.mov\" /></video></figure>\n</div>\n<h3>PCB Version</h3>\n<p>We decided to print our Frogger game on the PCB Printer in order to create a more tidy visual. The following were some of the steps taken:</p>\n<h4>KiCAD</h4>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/pic01.jpg\" alt=\"\" width=\"50%\" height=\"28\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xs.jpg 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-sm.jpg 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-md.jpg 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xl.jpg 1024w\"></figure>\n<h4>PCB Print</h4>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/17/fpgafrogger.jpg\" alt=\"\" width=\"50%\" height=\"57\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/17/responsive/fpgafrogger-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/17/responsive/fpgafrogger-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/17/responsive/fpgafrogger-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/17/responsive/fpgafrogger-xl.jpg 1024w\"></figure>\n<figcaption >Final Soldered PCB Version</figcaption>\n</figure>\n<hr>\n<p>This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship. There is also a tutorial on the Mercer XLab Education Modeules website for Verilog and the Basys 3 board that was written following the completion of this project.</p>\n<hr>\n<h4>Link to:</h4>\n<ul>\n<li><a href=\"https://github.com/oconnt0351/NSF-Includes-FPGA-Frogger\" target=\"_blank\" rel=\"noopener noreferrer\">Github</a></li>\n<li><a href=\"https://mercerxlab.notion.site/verilog-crossy\" target=\"_blank\" rel=\"noopener noreferrer\">Mercer XLab FPGA Frogger Education Module</a></li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
             "tags": [
             ],
             "date_published": "2025-07-19T15:43:08-04:00",
-            "date_modified": "2025-07-21T02:39:29-04:00"
+            "date_modified": "2025-07-22T23:19:31-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/the-adventures-of-arpie/",
-            "url": "https://jimthejelly.github.io/the-adventures-of-arpie/",
+            "id": "https://jimthejelly.github.io/website/the-adventures-of-arpie/",
+            "url": "https://jimthejelly.github.io/website/the-adventures-of-arpie/",
             "title": "Atomia - The Adventures of Arpie",
             "summary": "Atomia is a 2D adventure role-playing game made for educational and entertainment&hellip;",
-            "content_html": "<p>Atomia is a 2D adventure role-playing game made for educational and entertainment purposes.</p>\n<p>Follow Arpie and the ragtag elemental team as they make their way from the Outer Outskirts of Atomia to the Central Kingdom, where the Noble Gases are locked up by the Synthetic Syndicate. Can the team succesfully save the land from the evil clutches of the Syndicate, or were they doomed from the beginning?</p>\n<hr>\n<h3>Project Visuals (from demo)</h3>\n<p> </p>\n<hr>\n<h3>Additional Developer Notes</h3>\n<p><strong>Arpie character design progression</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: hidden; height: 210.708px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 162.833px; border-style: hidden;\">\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/media/posts/3/Arpie_idle1-2.png\" alt=\"Arpie_v1\" width=\"256\" height=\"256\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-xl.png 1024w\"></figure></td>\n<td style=\"width: 24.9762%; height: 162.833px;\"> </td>\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/media/posts/3/oxie_front1-2.png\" alt=\"Arpie_v3; added backpack\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-xl.png 1024w\"></figure></td>\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/media/posts/3/front1-2.png\" alt=\"Arpie_final; red backpack + pixel\" width=\"81\" height=\"81\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/media/posts/3/responsive/front1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-xl.png 1024w\"></figure></td>\n</tr>\n<tr style=\"height: 47.875px; border-style: hidden;\">\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 1</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 2</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 3</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 4 (Final)</em></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<hr>\n<p>Atomia is a spin-off from <a href=\"https://jimthejelly.github.io/fullerene/\">Fullerene</a>, and was made on the Unity platform. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li>Demo on Itch.io</li>\n<li><a href=\"https://github.com/jimthejelly/atomia-rpg\">Github</a></li>\n<li><a href=\"https://jimthejelly.github.io/fullerene/\">Fullerene</a> (parent project</li>\n</ul>",
+            "content_html": "<p>Atomia is a 2D adventure role-playing game made for educational and entertainment purposes.</p>\n<p>Follow Arpie and the ragtag elemental team as they make their way from the Outer Outskirts of Atomia to the Central Kingdom, where the Noble Gases are locked up by the Synthetic Syndicate. Can the team succesfully save the land from the evil clutches of the Syndicate, or were they doomed from the beginning?</p>\n<hr>\n<h3>Project Visuals (from demo)</h3>\n<p> </p>\n<hr>\n<h3>Additional Developer Notes</h3>\n<p><strong>Arpie character design progression</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-style: hidden; height: 210.708px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 162.833px; border-style: hidden;\">\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/3/Arpie_idle1-2.png\" alt=\"Arpie_v1\" width=\"256\" height=\"256\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xl.png 1024w\"></figure></td>\n<td style=\"width: 24.9762%; height: 162.833px;\"> </td>\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/3/oxie_front1-2.png\" alt=\"Arpie_v3; added backpack\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xl.png 1024w\"></figure></td>\n<td style=\"width: 24.9762%; height: 162.833px;\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jimthejelly.github.io/website/media/posts/3/front1-2.png\" alt=\"Arpie_final; red backpack + pixel\" width=\"81\" height=\"81\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xl.png 1024w\"></figure></td>\n</tr>\n<tr style=\"height: 47.875px; border-style: hidden;\">\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 1</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 2</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 3</em></td>\n<td class=\"align-center\" style=\"width: 24.9762%; height: 47.875px;\"><em>Version 4 (Final)</em></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<hr>\n<p>Atomia is a spin-off from <a href=\"https://jimthejelly.github.io/website/fullerene/\">Fullerene</a>, and was made on the Unity platform. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li>Demo on Itch.io</li>\n<li><a href=\"https://github.com/jimthejelly/atomia-rpg\">Github</a></li>\n<li><a href=\"https://jimthejelly.github.io/website/fullerene/\">Fullerene</a> (parent project</li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
@@ -76,8 +80,8 @@
             "date_modified": "2025-07-21T02:00:54-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/byond/",
-            "url": "https://jimthejelly.github.io/byond/",
+            "id": "https://jimthejelly.github.io/website/byond/",
+            "url": "https://jimthejelly.github.io/website/byond/",
             "title": "BYOND",
             "author": {
                 "name": "Jimin Lee"
@@ -88,8 +92,8 @@
             "date_modified": "2025-04-24T02:13:19-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/easygarden-ladybug/",
-            "url": "https://jimthejelly.github.io/easygarden-ladybug/",
+            "id": "https://jimthejelly.github.io/website/easygarden-ladybug/",
+            "url": "https://jimthejelly.github.io/website/easygarden-ladybug/",
             "title": "EasyGarden: Ladybug",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"ladybug.png\" alt=\"\" data-is-external-image=\"true\"></figure>",
             "author": {
@@ -101,8 +105,8 @@
             "date_modified": "2025-07-21T14:50:11-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/iot-contactless-biometric-sensing/",
-            "url": "https://jimthejelly.github.io/iot-contactless-biometric-sensing/",
+            "id": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
+            "url": "https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/",
             "title": "IoT Contactless Biometric Sensing ",
             "author": {
                 "name": "Jimin Lee"
@@ -113,8 +117,8 @@
             "date_modified": "2025-04-24T01:30:46-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/project-voice/",
-            "url": "https://jimthejelly.github.io/project-voice/",
+            "id": "https://jimthejelly.github.io/website/project-voice/",
+            "url": "https://jimthejelly.github.io/website/project-voice/",
             "title": "Project Voice",
             "summary": "The Voice Project is a multi-semester project that aims to develop and&hellip;",
             "content_html": "<p class=\"align-left\">The Voice Project is a multi-semester project that aims to develop and assist alternative communication methods for nonverbal patients.</p>\n<h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>\n<p>The goal of the colloquium is to bring awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It is a mostly student-run conference, with additional assistance from many of the RPI faculty &amp; administration.</p>\n<p>To access the website for the conference, click <a href=\"https://www.cinpct.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. To see the talks and panels from the conference, click <a href=\"https://cinpct.org/agenda/\">here</a>.</p>\n<h3>Research</h3>\n<p>The research branch of Project Voice focuses on creating a home-use assistive communication device for nonspeaking individuals.</p>\n<p><strong>Papers &amp; Related Notes:</strong></p>\n<ul>\n<li>Literature Review Paper</li>\n</ul>",
@@ -127,11 +131,11 @@
             "date_modified": "2025-07-19T15:53:58-04:00"
         },
         {
-            "id": "https://jimthejelly.github.io/fullerene/",
-            "url": "https://jimthejelly.github.io/fullerene/",
+            "id": "https://jimthejelly.github.io/website/fullerene/",
+            "url": "https://jimthejelly.github.io/website/fullerene/",
             "title": "Fullerene",
             "summary": "Fullerene is a chemistry modelling simulator + educational mini-games hub, where students&hellip;",
-            "content_html": "<p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>\n<hr>\n<h3>Project Visuals</h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/fullerene.38ce30fa2f3378149113.png\" alt=\"\" width=\"662\" height=\"447\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w\"></figure>\n<hr>\n<p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\">Github</a></li>\n<li><a href=\"https://new.rcos.io/projects/fullerene/\">RCOS Project Website</a></li>\n<li><a href=\"https://jimthejelly.github.io/the-adventures-of-arpie/\">RPG Spin-Off Project</a></li>\n</ul>",
+            "content_html": "<p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>\n<hr>\n<h3>Project Visuals</h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/fullerene.38ce30fa2f3378149113.png\" alt=\"\" width=\"662\" height=\"447\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w\"></figure>\n<hr>\n<p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>\n<hr>\n<p>Link to:</p>\n<ul>\n<li><a href=\"https://github.com/jimthejelly/fullerene\">Github</a></li>\n<li><a href=\"https://new.rcos.io/projects/fullerene/\">RCOS Project Website</a></li>\n<li><a href=\"https://jimthejelly.github.io/website/the-adventures-of-arpie/\">RPG Spin-Off Project</a></li>\n</ul>",
             "author": {
                 "name": "Jimin Lee"
             },
