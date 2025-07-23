@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>jimthejelly</title>
-    <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
-    <link href="https://jimthejelly.github.io/website" />
+    <link href="https://jimthejelly.github.io/feed.xml" rel="self" />
+    <link href="https://jimthejelly.github.io" />
     <updated>2025-07-21T14:50:11-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
-    <id>https://jimthejelly.github.io/website</id>
+    <id>https://jimthejelly.github.io</id>
 
     <entry>
         <title>House Plant Artificial LED Lighting</title>
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/"/>
-        <id>https://jimthejelly.github.io/website/house-plant-artificial-led-lighting/</id>
+        <link href="https://jimthejelly.github.io/house-plant-artificial-led-lighting/"/>
+        <id>https://jimthejelly.github.io/house-plant-artificial-led-lighting/</id>
 
         <updated>2025-07-21T13:58:20-04:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/python-files/"/>
-        <id>https://jimthejelly.github.io/website/python-files/</id>
+        <link href="https://jimthejelly.github.io/python-files/"/>
+        <id>https://jimthejelly.github.io/python-files/</id>
 
         <updated>2025-07-19T16:32:24-04:00</updated>
             <summary></summary>
@@ -38,8 +38,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/diy-guitar-pedal/"/>
-        <id>https://jimthejelly.github.io/website/diy-guitar-pedal/</id>
+        <link href="https://jimthejelly.github.io/diy-guitar-pedal/"/>
+        <id>https://jimthejelly.github.io/diy-guitar-pedal/</id>
 
         <updated>2025-07-19T15:43:18-04:00</updated>
             <summary>
@@ -63,8 +63,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/fpga-frogger/"/>
-        <id>https://jimthejelly.github.io/website/fpga-frogger/</id>
+        <link href="https://jimthejelly.github.io/fpga-frogger/"/>
+        <id>https://jimthejelly.github.io/fpga-frogger/</id>
 
         <updated>2025-07-19T15:43:08-04:00</updated>
             <summary>
@@ -101,8 +101,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/the-adventures-of-arpie/"/>
-        <id>https://jimthejelly.github.io/website/the-adventures-of-arpie/</id>
+        <link href="https://jimthejelly.github.io/the-adventures-of-arpie/"/>
+        <id>https://jimthejelly.github.io/the-adventures-of-arpie/</id>
 
         <updated>2025-05-19T00:00:00-04:00</updated>
             <summary>
@@ -123,10 +123,10 @@
 <table style="border-collapse: collapse; width: 100%; border-style: hidden; height: 210.708px;" border="0">
 <tbody>
 <tr style="height: 162.833px; border-style: hidden;">
-<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/Arpie_idle1-2.png" alt="Arpie_v1" width="256" height="256" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/Arpie_idle1-2-xl.png 1024w"></figure></td>
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/media/posts/3/Arpie_idle1-2.png" alt="Arpie_v1" width="256" height="256" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/Arpie_idle1-2-xl.png 1024w"></figure></td>
 <td style="width: 24.9762%; height: 162.833px;"> </td>
-<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/oxie_front1-2.png" alt="Arpie_v3; added backpack" width="1024" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/oxie_front1-2-xl.png 1024w"></figure></td>
-<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/3/front1-2.png" alt="Arpie_final; red backpack + pixel" width="81" height="81" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/3/responsive/front1-2-xl.png 1024w"></figure></td>
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/media/posts/3/oxie_front1-2.png" alt="Arpie_v3; added backpack" width="1024" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/oxie_front1-2-xl.png 1024w"></figure></td>
+<td style="width: 24.9762%; height: 162.833px;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/media/posts/3/front1-2.png" alt="Arpie_final; red backpack + pixel" width="81" height="81" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/media/posts/3/responsive/front1-2-xs.png 320w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-sm.png 480w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-md.png 768w ,https://jimthejelly.github.io/media/posts/3/responsive/front1-2-xl.png 1024w"></figure></td>
 </tr>
 <tr style="height: 47.875px; border-style: hidden;">
 <td class="align-center" style="width: 24.9762%; height: 47.875px;"><em>Version 1</em></td>
@@ -138,13 +138,13 @@
 </table>
 <p> </p>
 <hr>
-<p>Atomia is a spin-off from <a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a>, and was made on the Unity platform. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
+<p>Atomia is a spin-off from <a href="https://jimthejelly.github.io/fullerene/">Fullerene</a>, and was made on the Unity platform. This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
 <hr>
 <p>Link to:</p>
 <ul>
 <li>Demo on Itch.io</li>
 <li><a href="https://github.com/jimthejelly/atomia-rpg">Github</a></li>
-<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project</li>
+<li><a href="https://jimthejelly.github.io/fullerene/">Fullerene</a> (parent project</li>
 </ul>
             ]]>
         </content>
@@ -154,8 +154,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/byond/"/>
-        <id>https://jimthejelly.github.io/website/byond/</id>
+        <link href="https://jimthejelly.github.io/byond/"/>
+        <id>https://jimthejelly.github.io/byond/</id>
 
         <updated>2025-04-24T02:13:19-04:00</updated>
             <summary></summary>
@@ -166,8 +166,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/easygarden-ladybug/"/>
-        <id>https://jimthejelly.github.io/website/easygarden-ladybug/</id>
+        <link href="https://jimthejelly.github.io/easygarden-ladybug/"/>
+        <id>https://jimthejelly.github.io/easygarden-ladybug/</id>
 
         <updated>2025-04-24T02:13:06-04:00</updated>
             <summary></summary>
@@ -182,8 +182,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/"/>
-        <id>https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/</id>
+        <link href="https://jimthejelly.github.io/iot-contactless-biometric-sensing/"/>
+        <id>https://jimthejelly.github.io/iot-contactless-biometric-sensing/</id>
 
         <updated>2025-04-21T00:00:00-04:00</updated>
             <summary></summary>
@@ -194,8 +194,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/project-voice/"/>
-        <id>https://jimthejelly.github.io/website/project-voice/</id>
+        <link href="https://jimthejelly.github.io/project-voice/"/>
+        <id>https://jimthejelly.github.io/project-voice/</id>
 
         <updated>2024-08-17T00:00:00-04:00</updated>
             <summary>
@@ -223,8 +223,8 @@
         <author>
             <name>Jimin Lee</name>
         </author>
-        <link href="https://jimthejelly.github.io/website/fullerene/"/>
-        <id>https://jimthejelly.github.io/website/fullerene/</id>
+        <link href="https://jimthejelly.github.io/fullerene/"/>
+        <id>https://jimthejelly.github.io/fullerene/</id>
 
         <updated>2024-06-04T00:00:00-04:00</updated>
             <summary>
@@ -245,7 +245,7 @@
 <ul>
 <li><a href="https://github.com/jimthejelly/fullerene">Github</a></li>
 <li><a href="https://new.rcos.io/projects/fullerene/">RCOS Project Website</a></li>
-<li><a href="https://jimthejelly.github.io/website/the-adventures-of-arpie/">RPG Spin-Off Project</a></li>
+<li><a href="https://jimthejelly.github.io/the-adventures-of-arpie/">RPG Spin-Off Project</a></li>
 </ul>
             ]]>
         </content>
