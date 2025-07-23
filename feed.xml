@@ -3,7 +3,7 @@
     <title>jimthejelly</title>
     <link href="https://jimthejelly.github.io/website/feed.xml" rel="self" />
     <link href="https://jimthejelly.github.io/website" />
-    <updated>2025-07-22T23:19:31-04:00</updated>
+    <updated>2025-07-22T23:30:36-04:00</updated>
     <author>
         <name>Jimin Lee</name>
     </author>
@@ -71,12 +71,15 @@
         <updated>2025-07-19T16:32:24-04:00</updated>
             <summary>
                 <![CDATA[
-                    This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.
+                    Terminal Text-Based Visual Screen This project was developed as part of the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
+                <h3>Terminal Text-Based</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/pic01.jpg" alt="" width="50%" height="28" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xs.jpg 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-sm.jpg 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-md.jpg 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xl.jpg 1024w"></figure>
+<h3>Visual Screen</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/19/pythonfiles.png" alt="" width="50%" height="27" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/19/responsive/pythonfiles-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/19/responsive/pythonfiles-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/19/responsive/pythonfiles-md.png 768w ,https://jimthejelly.github.io/website/media/posts/19/responsive/pythonfiles-xl.png 1024w"></figure>
 <hr>
 <p>This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.</p>
 <hr>
@@ -98,17 +101,25 @@
         <updated>2025-07-19T15:43:18-04:00</updated>
             <summary>
                 <![CDATA[
-                    Circuit Schematic: Breadboard: Soldered PCB Components:
+                    This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p> </p>
-<p>Circuit Schematic:</p>
-<p> </p>
-<p>Breadboard:</p>
-<p> </p>
-<p>Soldered PCB Components:</p>
+<h3>Circuit Schematic</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/pic01.jpg" alt="" width="50%" height="28" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xs.jpg 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-sm.jpg 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-md.jpg 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xl.jpg 1024w"></figure>
+<h3>Breadboard</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/pic01.jpg" alt="" width="50%" height="28" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xs.jpg 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-sm.jpg 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-md.jpg 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/22/responsive/pic01-xl.jpg 1024w"></figure>
+<h3>Soldered PCB Components</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://jimthejelly.github.io/website/media/posts/18/pedalimg.jpg" alt="" width="50%" height="67" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/18/responsive/pedalimg-xs.jpg 320w ,https://jimthejelly.github.io/website/media/posts/18/responsive/pedalimg-sm.jpg 480w ,https://jimthejelly.github.io/website/media/posts/18/responsive/pedalimg-md.jpg 768w ,https://jimthejelly.github.io/website/media/posts/18/responsive/pedalimg-xl.jpg 1024w"></figure>
+<hr>
+<p>This project was developed as part of the RPI-HVCC Semiconductor Scholars Internship.</p>
+<hr>
+<h4>Link to:</h4>
+<ul>
+<li><a href="https://github.com/jimthejelly/fullerene"></a>Project Files</li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -216,7 +227,7 @@
 <ul>
 <li>Demo on Itch.io</li>
 <li><a href="https://github.com/jimthejelly/atomia-rpg">Github</a></li>
-<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project</li>
+<li><a href="https://jimthejelly.github.io/website/fullerene/">Fullerene</a> (parent project)</li>
 </ul>
             ]]>
         </content>
@@ -242,24 +253,23 @@
         <id>https://jimthejelly.github.io/website/easygarden-ladybug/</id>
 
         <updated>2025-04-24T02:13:06-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Final Product This project was created in the Introduction to Engineering Design&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="ladybug.png" alt="" data-is-external-image="true"></figure>
+                <h3><figure class="post__image"><img  src="ladybug.png" alt="" data-is-external-image="true"></figure>Final Product<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/14/ladybug.png" alt="" width="50%" height="36" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/14/responsive/ladybug-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/14/responsive/ladybug-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/14/responsive/ladybug-md.png 768w ,https://jimthejelly.github.io/website/media/posts/14/responsive/ladybug-xl.png 1024w"></figure></h3>
+<hr>
+<p>This project was created in the Introduction to Engineering Design class at Rensselaer Polytechnic Institute.</p>
+<hr>
+<h4>Link to:</h4>
+<ul>
+<li><a href="https://github.com/jimthejelly/fullerene"></a>Project Files</li>
+</ul>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>IoT Contactless Biometric Sensing </title>
-        <author>
-            <name>Jimin Lee</name>
-        </author>
-        <link href="https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/"/>
-        <id>https://jimthejelly.github.io/website/iot-contactless-biometric-sensing/</id>
-
-        <updated>2025-04-21T00:00:00-04:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Project Voice</title>
@@ -281,6 +291,7 @@
 <h3>2026 Colloquium for the Improvement of Nonverbal Patient Care Technologies (CINPCT)</h3>
 <p>The goal of the colloquium is to bring awareness among academia, industry and students about how various existing technologies can come together to create assistive devices for nonverbal people. It is a mostly student-run conference, with additional assistance from many of the RPI faculty &amp; administration.</p>
 <p>To access the website for the conference, click <a href="https://www.cinpct.org" target="_blank" rel="noopener noreferrer">here</a>. To see the talks and panels from the conference, click <a href="https://cinpct.org/agenda/">here</a>.</p>
+<hr>
 <h3>Research</h3>
 <p>The research branch of Project Voice focuses on creating a home-use assistive communication device for nonspeaking individuals.</p>
 <p><strong>Papers &amp; Related Notes:</strong></p>
@@ -309,7 +320,7 @@
                 <p>Fullerene is a chemistry modelling simulator + educational mini-games hub, where students from high school to first-year college students can learn and practice their chemistry knowledge.</p>
 <hr>
 <h3>Project Visuals</h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/fullerene.38ce30fa2f3378149113.png" alt="" width="662" height="447" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xs.png 320w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-sm.png 480w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-md.png 768w ,file:///C:/Users/leej64/Desktop/jimthejelly/input/media/posts/2/responsive/fullerene.38ce30fa2f3378149113-xl.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/2/fullerene-2.png" alt="" width="50%" height="34" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene-2-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene-2-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene-2-md.png 768w ,https://jimthejelly.github.io/website/media/posts/2/responsive/fullerene-2-xl.png 1024w"></figure>
 <hr>
 <p>This project is supervised by Dr Alexander Ma, and was developed in the Rensselaer Center for Open Source (RCOS).</p>
 <hr>
@@ -318,6 +329,39 @@
 <li><a href="https://github.com/jimthejelly/fullerene">Github</a></li>
 <li><a href="https://new.rcos.io/projects/fullerene/">RCOS Project Website</a></li>
 <li><a href="https://jimthejelly.github.io/website/the-adventures-of-arpie/">RPG Spin-Off Project</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Watermelon Lights</title>
+        <author>
+            <name>Jimin Lee</name>
+        </author>
+        <link href="https://jimthejelly.github.io/website/watermelon-lights/"/>
+        <id>https://jimthejelly.github.io/website/watermelon-lights/</id>
+
+        <updated>2024-05-30T00:00:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Watermelon Lights is a circuit system that lights an LED based on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Watermelon Lights is a circuit system that lights an LED based on the frequency of your sound input. Similar to Clap-On Lights, this project is intended to provide a simple and easy way for controlling the lights in your house.</p>
+<p>The circuit system has three key aspects: sound input, amplification, and filtering. To achieve this, we used operational amplifiers, 555 timers, an electret microphone and created a frequency filter (initially passive, then switched to active). </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jimthejelly.github.io/website/media/posts/5/watermelon.png" alt="" width="559" height="439" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon-xs.png 320w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon-sm.png 480w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon-md.png 768w ,https://jimthejelly.github.io/website/media/posts/5/responsive/watermelon-xl.png 1024w"></figure>
+<hr>
+<p>Watermelon Lights was a semester-long project made for Electric Circuits, and was presented at the Mercer X Corridor of Creativity and Community.</p>
+<hr>
+<p>Link to:</p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1RS2pAlSpVT5Sf90YE4QoQzaN_vw7SFMTbTjedupLKuE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Mercer X Grand Opening Presentation</a></li>
+<li><a href="https://docs.google.com/document/d/1QdWbbYbuF54TKe8uwa-hxR_3HgViGpavkoGLGTZGsps/edit?usp=sharing">Final Project Manual</a></li>
+<li>Milestone 1</li>
+<li>Milestone 2</li>
+<li>Milestone 3</li>
 </ul>
             ]]>
         </content>
